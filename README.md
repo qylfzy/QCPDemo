@@ -33,7 +33,7 @@ QCP.getInstance().create(MainActivity.this)
 
 注意
 ----
-setDisposeForbidQCP(boolean)--是否允许QCP处理用户拒绝权限之后的操作，默认为true
-true：QCP处理
+setDisposeForbidQCP(boolean)--是否允许QCP处理用户拒绝权限之后的操作，默认为true <br>
+true：QCP处理 <br>
 false：自己处理，拒绝权限详情回调
 
